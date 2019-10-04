@@ -1,0 +1,11 @@
+/home/snyderjosephd/nss/workspace/csharp/exercises/dictionaries/RandallsCarLot/bin/Debug/netcoreapp3.0/RandallsCarLot
+/home/snyderjosephd/nss/workspace/csharp/exercises/dictionaries/RandallsCarLot/bin/Debug/netcoreapp3.0/RandallsCarLot.deps.json
+/home/snyderjosephd/nss/workspace/csharp/exercises/dictionaries/RandallsCarLot/bin/Debug/netcoreapp3.0/RandallsCarLot.runtimeconfig.json
+/home/snyderjosephd/nss/workspace/csharp/exercises/dictionaries/RandallsCarLot/bin/Debug/netcoreapp3.0/RandallsCarLot.runtimeconfig.dev.json
+/home/snyderjosephd/nss/workspace/csharp/exercises/dictionaries/RandallsCarLot/bin/Debug/netcoreapp3.0/RandallsCarLot.dll
+/home/snyderjosephd/nss/workspace/csharp/exercises/dictionaries/RandallsCarLot/bin/Debug/netcoreapp3.0/RandallsCarLot.pdb
+/home/snyderjosephd/nss/workspace/csharp/exercises/dictionaries/RandallsCarLot/obj/Debug/netcoreapp3.0/RandallsCarLot.csprojAssemblyReference.cache
+/home/snyderjosephd/nss/workspace/csharp/exercises/dictionaries/RandallsCarLot/obj/Debug/netcoreapp3.0/RandallsCarLot.AssemblyInfoInputs.cache
+/home/snyderjosephd/nss/workspace/csharp/exercises/dictionaries/RandallsCarLot/obj/Debug/netcoreapp3.0/RandallsCarLot.AssemblyInfo.cs
+/home/snyderjosephd/nss/workspace/csharp/exercises/dictionaries/RandallsCarLot/obj/Debug/netcoreapp3.0/RandallsCarLot.dll
+/home/snyderjosephd/nss/workspace/csharp/exercises/dictionaries/RandallsCarLot/obj/Debug/netcoreapp3.0/RandallsCarLot.pdb
